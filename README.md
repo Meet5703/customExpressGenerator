@@ -56,4 +56,4 @@ new
 └── package.json
 
 ## README
-The README file is designed to provide comprehensive information about the project and its structure. It includes details on usage, preloaded modules, and the boilerplate structure of the generated project.
+The README file is designed to provide comprehensive information about the project and its structure. It includes details on usage taileindcss cdn, preloaded modules, and the boilerplate structure of the generated project.
